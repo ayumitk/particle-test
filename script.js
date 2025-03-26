@@ -1,3 +1,1 @@
-function greet() {
-  alert("Hello, GitHub Pages!");
-}
+nextParticle = new NextParticle(document.all.logo);
